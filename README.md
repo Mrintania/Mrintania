@@ -1,5 +1,7 @@
-# Pornsupat
-### Full-Stack Developer | AI Instructor | Royal Thai Army Signal Department
+<!-- Align center -->
+<h1 align="center">Hi 👋, I'm Babylon's</h1>
+
+<h2 align="center">Full-Stack Developer | AI Instructor | Royal Thai Army Signal Department</h2>
 
 <p align="center">
   <em>"Technology serves those who serve their nation"</em>
@@ -102,7 +104,7 @@ Dedicated to advancing technological capabilities within military education and 
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/pornsupat-v/" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>

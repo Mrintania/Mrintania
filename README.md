@@ -1,7 +1,7 @@
 <!-- Align center -->
 <h1 align="center">Hi 👋, I'm Babylon's</h1>
 
-<h2 align="center">Full-Stack Developer | AI Instructor | Royal Thai Army Signal Department</h2>
+<h2 align="center">DevOps | AI Instructor | Computer Science Educator |Royal Thai Army Signal Department</h2>
 
 <p align="center">
   <em>"Technology serves those who serve their nation"</em>
@@ -11,7 +11,7 @@
 
 ## 🎖️ Professional Overview
 
-**Full-Stack Developer** at Signal School, Signal Department, Royal Thai Army  
+**DevOps** at Signal School, Signal Department, Royal Thai Army  
 **Instructor** specializing in Artificial Intelligence, Information Technology, and Computer Science
 
 Dedicated to advancing technological capabilities within military education and fostering the next generation of military technologists. Committed to developing innovative solutions that bridge the gap between cutting-edge technology and practical military applications.

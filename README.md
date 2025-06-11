@@ -1,7 +1,7 @@
 <!-- Align center -->
 <h1 align="center">Hi 👋, I'm Babylon's</h1>
 
-<h2 align="center">DevOps | AI Instructor | Computer Science Educator |Royal Thai Army Signal Department</h2>
+<h2 align="center">DevOps | AI Instructor | Computer Science Educator | Royal Thai Army Signal Department</h2>
 
 <p align="center">
   <em>"Technology serves those who serve their nation"</em>
